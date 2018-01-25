@@ -1,2 +1,2 @@
 zed-ros-wrapper
--DCATKIN_DEVEL_PREFIX=/home/ubuntu/Workspace/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/Workspace/catkin_ws/install -G Unix Makefiles
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/Visual-SLAM-using-Stereo-Camera-for-Autonomous-Vehicles/zed/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/Visual-SLAM-using-Stereo-Camera-for-Autonomous-Vehicles/zed/install -G Unix Makefiles
