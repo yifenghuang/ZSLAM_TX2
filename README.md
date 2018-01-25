@@ -10,7 +10,7 @@
  * ROS Kinetic
  
  ## Dependencies:
- * Jetson TX2(with a 750 GB SSD. the way to installit  is will update later)
+ * Jetson TX2(with a 750 GB SSD. the way to install it  is will update later)
  * ORB SLAM2 - Installed from the instruction [here](https://github.com/raulmur/ORB_SLAM2).
  * ZED Stereo Camera - copy ./zed/src/zed-ros-wrapper to your catkin workspace folder and catkin_make it
  
